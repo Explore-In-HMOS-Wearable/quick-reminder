@@ -1,0 +1,88 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "title_text",
+      "value": "⏰ Quick Reminder"
+    },
+    {
+      "name": "create_reminder",
+      "value": "Create Reminder"
+    },
+    {
+      "name": "show_reminders",
+      "value": "Show Reminders"
+    },
+    {
+      "name": "cancel_reminder",
+      "value": "Cancel Reminder"
+    },
+    {
+      "name": "save_button",
+      "value": "Save"
+    },
+    {
+      "name": "input_title_placeholder",
+      "value": "Enter title"
+    },
+    {
+      "name": "input_content_placeholder",
+      "value": "Enter content"
+    },
+    {
+      "name": "input_time_placeholder",
+      "value": "Seconds"
+    },
+    {
+      "name": "status_invalid_time",
+      "value": "Please enter a valid time in seconds."
+    },
+    {
+      "name": "status_missing_fields",
+      "value": "Please fill in both title and content."
+    },
+    {
+      "name": "status_set",
+      "value": "Reminder set."
+    },
+    {
+      "name": "status_no_reminders",
+      "value": "No active reminders."
+    },
+    {
+      "name": "status_total_reminders",
+      "value": "Total reminders: "
+    },
+    {
+      "name": "status_need_reminder",
+      "value": "You need to create a reminder first."
+    },
+    {
+      "name": "status_canceled",
+      "value": "Reminder canceled."
+    },
+    {
+      "name": "status_listing_error",
+      "value": "Listing error: "
+    },
+    {
+      "name": "status_publish_error",
+      "value": "Error: "
+    },
+    {
+      "name": "status_cancel_error",
+      "value": "Cancellation error: "
+    }
+  ]
+}
