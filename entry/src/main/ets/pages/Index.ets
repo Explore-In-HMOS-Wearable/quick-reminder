@@ -127,7 +127,7 @@ struct Index {
     notificationManager.requestEnableNotification(context).then(() => {
       Logger.info('Enable notification success');
     }).catch((err: Error) => {
-      Logger.error('Enable notification failed because ' + JSON.stringify(err));
+      Logger.error(`Enable notification failed because ${JSON.stringify(err)}`);
     });
   }
 

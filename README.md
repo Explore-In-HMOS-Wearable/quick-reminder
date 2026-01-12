@@ -6,9 +6,11 @@
 
 This app was built to serve simple, fast scenarios such as reminding users of tasks while their hands are busy (e.g., while eating, cooking, or working). With just a few taps, users can set a quick alert directly from their wrist.
 
+# Preview
+
 <div>
-  <img src="screenshots/output.png" width="25%">
-  <img src="screenshots/output1.png" width="25%">
+  <img src="screenshots/output.png" width="24%">
+  <img src="screenshots/output1.png" width="24%">
 </div>
 
 # Use Cases
