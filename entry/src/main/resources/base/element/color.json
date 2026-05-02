@@ -47,6 +47,54 @@
     {
       "name": "button_save_background",
       "value": "#FF13D059"
+    },
+    {
+      "name": "primary_cyan",
+      "value": "#00D4FF"
+    },
+    {
+      "name": "primary_green",
+      "value": "#1DB954"
+    },
+    {
+      "name": "primary_red",
+      "value": "#FF4B2B"
+    },
+    {
+      "name": "bg_gradient_start",
+      "value": "#040408"
+    },
+    {
+      "name": "bg_gradient_end",
+      "value": "#0f172a"
+    },
+    {
+      "name": "form_bg",
+      "value": "#1AFFFFFF"
+    },
+    {
+      "name": "form_border",
+      "value": "#22FFFFFF"
+    },
+    {
+      "name": "button_secondary",
+      "value": "#33FFFFFF"
+    },
+    {
+      "name": "shadow_cyan",
+      "value": "#8800D4FF"
+    },
+    {
+      "name": "input_placeholder",
+      "value": "#80FFFFFF"
+    },
+    {
+      "name": "input_bg",
+      "value": "#26000000"
+    },
+    {
+      "name": "button_bg_glass",
+      "value": "#12FFFFFF"
     }
   ]
 }

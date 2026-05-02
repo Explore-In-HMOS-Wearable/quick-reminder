@@ -95,6 +95,74 @@
     {
       "name": "row_space",
       "value": "2vp"
+    },
+    {
+      "name": "font_tiny",
+      "value": "8fp"
+    },
+    {
+      "name": "font_small",
+      "value": "12fp"
+    },
+    {
+      "name": "spacing_tiny",
+      "value": "2vp"
+    },
+    {
+      "name": "spacing_small",
+      "value": "4vp"
+    },
+    {
+      "name": "spacing_medium",
+      "value": "8vp"
+    },
+    {
+      "name": "spacing_large",
+      "value": "15vp"
+    },
+    {
+      "name": "btn_height",
+      "value": "24vp"
+    },
+    {
+      "name": "border_radius_m",
+      "value": "10vp"
+    },
+    {
+      "name": "border_thin",
+      "value": "0.5vp"
+    },
+    {
+      "name": "input_height",
+      "value": "28vp"
+    },
+    {
+      "name": "font_input",
+      "value": "9fp"
+    },
+    {
+      "name": "input_radius",
+      "value": "4vp"
+    },
+    {
+      "name": "input_padding_side",
+      "value": "6vp"
+    },
+    {
+      "name": "menu_btn_height",
+      "value": "28vp"
+    },
+    {
+      "name": "menu_btn_font_size",
+      "value": "9fp"
+    },
+    {
+      "name": "menu_btn_border_width",
+      "value": "1vp"
+    },
+    {
+      "name": "menu_btn_radius",
+      "value": "14vp"
     }
   ]
 }

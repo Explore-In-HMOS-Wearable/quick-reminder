@@ -83,6 +83,38 @@
     {
       "name": "status_cancel_error",
       "value": "Cancellation error: "
+    },
+    {
+      "name": "label_quick_reminder",
+      "value": "QUICK REMINDER"
+    },
+    {
+      "name": "label_new_task",
+      "value": "NEW TASK"
+    },
+    {
+      "name": "label_list",
+      "value": "LIST"
+    },
+    {
+      "name": "label_cancel",
+      "value": "CANCEL"
+    },
+    {
+      "name": "label_set",
+      "value": "SET"
+    },
+    {
+      "name": "placeholder_name",
+      "value": "Name"
+    },
+    {
+      "name": "placeholder_desc",
+      "value": "Desc"
+    },
+    {
+      "name": "placeholder_secs",
+      "value": "Secs"
     }
   ]
 }
